@@ -1,27 +1,14 @@
-.board {
+.game {
 	width: 156px;
-	border: 3px solid red;
-}
-
-.board_row {
-
-}
-
-.square {
-	height: 40px;
-	width: 40px;
-	margin: 5px;
-	font-size: 20px;
-}
-
-.status {
-
 }
 
 .game_board {
+	width: 156px;
+	border: 3px solid red;
 
 }
 
 .game_info {
-	
+	border: 3px solid green;
+	width: 100%;
 }

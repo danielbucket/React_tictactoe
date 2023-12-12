@@ -1,0 +1,12 @@
+.board {
+}
+
+.board_row {
+	display: inline-flex;
+	color: white;
+	margin: auto;
+}
+
+.status {
+
+}
